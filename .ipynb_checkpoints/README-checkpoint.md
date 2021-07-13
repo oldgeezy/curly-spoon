@@ -1,1 +1,0 @@
-# Collection of random python scripts and plotting
